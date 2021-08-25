@@ -27,11 +27,20 @@ public class ControlaPer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        corre();
+        pula();
+        shoot(); 
+
+    }
+
+    private void corre()
+    {
         float horz = Input.GetAxis("Horizontal");
 
         if (horz != 0)
         {
-            GetComponent<Animator>().SetBool("CORRENDO", true);
+            animator.SetBool("CORRENDO", true);
             transform.Translate(2f * Time.deltaTime * horz, 0, 0); // faz personagem andar 
             if (horz < 0)
                 transform.localScale = new Vector3(-1, 1, 1); // vira a sprite
@@ -41,23 +50,28 @@ public class ControlaPer : MonoBehaviour
         }
         else
         {
-            GetComponent<Animator>().SetBool("CORRENDO", false);
+            animator.SetBool("CORRENDO", false);
         }
+    }
 
+    private void pula()
+    {
         if (Input.GetKeyDown(KeyCode.Space))
         {
             rb.AddForce(new Vector2(0, 7.5f), ForceMode2D.Impulse); // para valores quebrados colocar "f" do lado
             animator.SetTrigger("PULAR");
             animator.SetBool("NOCHAO", true);
         }
-        if (Input.GetButtonDown("Fire1") && Time.time>nextFire) // Intervalo entre os tiros
+    }
+
+    private void shoot()
+    {
+        if (Input.GetButtonDown("Fire1") && Time.time > nextFire) // Intervalo entre os tiros
         {
             nextFire = Time.time + fireRate;
-            animator.SetTrigger("Shoot");
+            animator.SetTrigger("Fire");
             GameObject tempBullet = Instantiate(bulletPrefab, shotSpawner.position, shotSpawner.rotation);
         }
-        
-
     }
 
 
