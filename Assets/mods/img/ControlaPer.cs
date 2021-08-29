@@ -41,7 +41,7 @@ public class ControlaPer : MonoBehaviour
         if (horz != 0)
         {
             animator.SetBool("CORRENDO", true);
-            transform.Translate(2f * Time.deltaTime * horz, 0, 0); // faz personagem andar 
+            transform.Translate(3f * Time.deltaTime * horz, 0, 0); // faz personagem andar 
             if (horz < 0)
                 transform.localScale = new Vector3(-1, 1, 1); // vira a sprite
             else

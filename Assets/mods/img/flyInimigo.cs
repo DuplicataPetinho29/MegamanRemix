@@ -19,9 +19,11 @@ public class flyInimigo : MonoBehaviour
 
     public float playerRange;
 
+    public bool dam;
+
     public LayerMask playerLayer;
 
-    public bool playerInrange;
+    public bool playerInRange;
 
     // Start is called before the first frame update
     void Start()
@@ -34,8 +36,23 @@ public class flyInimigo : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = Vector3.MoveTowards(transform.position, thePlayer.transform.position, moveSpeed * Time.deltaTime);
-        chasePlayer();
+
+        playerInRange = Physics2D.OverlapCircle(transform.position, playerRange, playerLayer);
+
+        if (playerInRange)
+        {
+            playerInRange = true;
+            moveSpeed = 1;
+            transform.position = Vector3.MoveTowards(transform.position, thePlayer.transform.position, moveSpeed * Time.deltaTime);
+            chasePlayer();
+            dano();
+        }
+        else
+        {
+            //playerInRange = false;
+            moveSpeed = 0;
+            chasePlayer();
+        }
     }
 
     private void OnDrawGizmosSelected()
@@ -55,5 +72,16 @@ public class flyInimigo : MonoBehaviour
             rigidbody2d.velocity = new Vector2(-moveSpeed, 0);
             transform.localScale = new Vector2(3, 3);
         }
+    }
+
+    void dano()
+    {
+        if (transform.position.x == player.position.x)
+        {
+            dam = true;
+            player.position = new Vector3(-2f, -3f);
+        }
+        else
+            dam = false;
     }
 }
