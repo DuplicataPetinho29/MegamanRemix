@@ -16150,7 +16150,7 @@ MonoBehaviour:
   player: {fileID: 323331209}
   agroRange: 0
   moveSpeed: 0.5
-  playerRange: 7
+  playerRange: 0
   dam: 0
   playerLayer:
     serializedVersion: 2
@@ -16234,7 +16234,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 403464441}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 30.9, y: 6.09, z: 0}
+  m_LocalPosition: {x: 3.99, y: 2.04, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -19097,7 +19097,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 799161135}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.68, y: -4.11, z: 0}
+  m_LocalPosition: {x: -6.255, y: -4.073, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 360321100}
@@ -30941,6 +30941,7 @@ GameObject:
   - component: {fileID: 1974134339}
   - component: {fileID: 1974134338}
   - component: {fileID: 1974134337}
+  - component: {fileID: 1974134341}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -31031,6 +31032,26 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1974134341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1974134336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae35137b700b979499f6acdab7ed2ddd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  Range: 0
+  Target: {fileID: 0}
+  "Rota\xE7\xE3o": {fileID: 0}
+  Bullet: {fileID: 0}
+  FireRate: 0
+  ShootPoint: {fileID: 0}
+  Force: 0
 --- !u!1 &1990086363
 GameObject:
   m_ObjectHideFlags: 0
