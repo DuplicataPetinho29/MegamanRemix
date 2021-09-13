@@ -19739,10 +19739,10 @@ MonoBehaviour:
   Range: 10
   Target: {fileID: 323331209}
   "Rota\xE7\xE3o": {fileID: 127167024}
-  Bullet: {fileID: 8535389272665353938, guid: c944a59c3acef3b40b151a780d9d6c1a, type: 3}
+  Bullet: {fileID: 2802226969263920517, guid: e9f94a0d8f978cd479aa78dc4e1e6321, type: 3}
   FireRate: 1
   ShootPoint: {fileID: 477915911}
-  Force: 20
+  Force: 30
 --- !u!95 &1423501549
 Animator:
   serializedVersion: 3
@@ -19801,8 +19801,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: 3408753022401354526, guid: 5d9d6e034d71d0a4aab207d2b1c3895d,
-    type: 3}
+  m_Sprite: {fileID: 374408284997660868, guid: e56c9c76e9dacf94ea214a504c788119, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
