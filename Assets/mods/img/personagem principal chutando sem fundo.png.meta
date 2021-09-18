@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 1aecd7bb60c0c754e8c9016121c9e36f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8054615662954420039
+    second: personagem principal chutando sem fundo_0
+  - first:
+      213: -2676281613249540937
+    second: personagem principal chutando sem fundo_1
+  - first:
+      213: 3337596267776889788
+    second: personagem principal chutando sem fundo_2
+  - first:
+      213: -4990427253935813561
+    second: personagem principal chutando sem fundo_3
+  - first:
+      213: 5389529548175815598
+    second: personagem principal chutando sem fundo_4
+  - first:
+      213: 2875127320074968635
+    second: personagem principal chutando sem fundo_5
+  - first:
+      213: 444315360493795225
+    second: personagem principal chutando sem fundo_6
+  - first:
+      213: 4559385185047362753
+    second: personagem principal chutando sem fundo_7
+  - first:
+      213: 595775261967020453
+    second: personagem principal chutando sem fundo_8
+  - first:
+      213: 7230347330624357008
+    second: personagem principal chutando sem fundo_9
+  - first:
+      213: -7774806840864752011
+    second: personagem principal chutando sem fundo_10
+  - first:
+      213: -8007196492684302623
+    second: personagem principal chutando sem fundo_11
+  - first:
+      213: -3254738941025286239
+    second: personagem principal chutando sem fundo_12
+  - first:
+      213: 1851036751460390868
+    second: personagem principal chutando sem fundo_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 233
+        width: 100
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74712b0354eb7cf60800000000000000
+      internalID: 8054615662954420039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 234
+        width: 115
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc0a536d00fbdad0800000000000000
+      internalID: -2676281613249540937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 233
+        width: 99
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3d2884f16815e20800000000000000
+      internalID: 3337596267776889788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_3
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 233
+        width: 94
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4abb5ad07ebab0800000000000000
+      internalID: -4990427253935813561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 227
+        width: 118
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3bd71b1947bca40800000000000000
+      internalID: 5389529548175815598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_5
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 226
+        width: 83
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ed615801186e720800000000000000
+      internalID: 2875127320074968635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_6
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 252
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9977b7e57768a2600800000000000000
+      internalID: 444315360493795225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_7
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 223
+        width: 102
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc3dec4ba0364f30800000000000000
+      internalID: 4559385185047362753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_8
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 226
+        width: 146
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a17287b17e944800800000000000000
+      internalID: 595775261967020453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_9
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 226
+        width: 135
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0920f84d69a575460800000000000000
+      internalID: 7230347330624357008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_10
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 227
+        width: 123
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ebaf4fe565a1490800000000000000
+      internalID: -7774806840864752011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 227
+        width: 96
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e66cceb639b0e090800000000000000
+      internalID: -8007196492684302623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_12
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 224
+        width: 76
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a78e8f6d28d4d2d0800000000000000
+      internalID: -3254738941025286239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal chutando sem fundo_13
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 253
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75df44e1430b910800000000000000
+      internalID: 1851036751460390868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
