@@ -30,6 +30,7 @@ public class ControlaPer : MonoBehaviour
 
         corre();
         pula();
+        atq();
         shoot(); 
 
     }
@@ -87,6 +88,14 @@ public class ControlaPer : MonoBehaviour
     {
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(transform.position - diferenca, RAIO);
+    }
+
+    void atq()
+    {
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            animator.SetTrigger("CHUTA");
+        }
     }
 }
 

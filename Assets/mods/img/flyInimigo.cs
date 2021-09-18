@@ -7,41 +7,48 @@ public class flyInimigo : MonoBehaviour
 
     private ControlaPer thePlayer;
 
-    private Health saude;
-
     [SerializeField]
     Transform player;
 
     [SerializeField]
-    float agroRange;
+    LayerMask GroundLayer;
 
-    Rigidbody2D rigidbody2d;
 
     public float moveSpeed;
 
     public float playerRange;
 
-    public bool dam;
-
     public LayerMask playerLayer;
 
     public bool playerInRange;
+
+    public float ground;
+
+    public bool InGround;
+
+
+
+
+
+    Rigidbody2D rigidbody2d;
+
+
+
 
     // Start is called before the first frame update
     void Start()
     {
         thePlayer = FindObjectOfType<ControlaPer>();
 
-        saude = FindObjectOfType<Health>();
-
         rigidbody2d = GetComponent<Rigidbody2D>();
+
+
     }
 
     // Update is called once per frame
     void Update()
     {
-
-        playerInRange = Physics2D.OverlapCircle(transform.position, playerRange, playerLayer);
+        //playerInRange = Physics2D.OverlapCircle(transform.position, playerRange, playerLayer);
 
         if (playerInRange)
         {
@@ -49,20 +56,35 @@ public class flyInimigo : MonoBehaviour
             moveSpeed = 1;
             transform.position = Vector3.MoveTowards(transform.position, thePlayer.transform.position, moveSpeed * Time.deltaTime);
             chasePlayer();
-            dano();
+
         }
         else
         {
-            //playerInRange = false;
+
             moveSpeed = 0;
             chasePlayer();
+
         }
+
+
+    }
+    private void FixedUpdate()
+    {
+        playerInRange = Physics2D.OverlapCircle(transform.position, playerRange, playerLayer);
+
+        InGround = Physics2D.OverlapCircle(transform.position, ground, GroundLayer);
     }
 
     private void OnDrawGizmosSelected()
     {
-        Gizmos.DrawSphere(transform.position, playerRange);
+        Gizmos.DrawWireSphere(transform.position, playerRange);
+
+        Gizmos.color = Color.blue;
+        Gizmos.DrawWireSphere(transform.position, ground);
     }
+
+
+
 
     void chasePlayer()
     {
@@ -78,15 +100,4 @@ public class flyInimigo : MonoBehaviour
         }
     }
 
-    void dano()
-    {
-        if (transform.position.x == player.position.x)
-        {
-            dam = true;
-            player.position = new Vector3(-2f, -3f);
-            saude.health = saude.health - 1;
-        }
-        else
-            dam = false;
-    }
 }

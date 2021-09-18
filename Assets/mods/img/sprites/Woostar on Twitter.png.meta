@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: f2cccdfe283b6e147bba68c55bd75790
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6914680426451498877
+    second: Woostar on Twitter_0
+  - first:
+      213: 3563854323009284931
+    second: Woostar on Twitter_1
+  - first:
+      213: 6928867564929822924
+    second: Woostar on Twitter_2
+  - first:
+      213: 1995419523872965705
+    second: Woostar on Twitter_3
+  - first:
+      213: -765346138032145761
+    second: Woostar on Twitter_4
+  - first:
+      213: 6598586456837767895
+    second: Woostar on Twitter_5
+  - first:
+      213: 7987545405744689707
+    second: Woostar on Twitter_6
+  - first:
+      213: -1712347892595568843
+    second: Woostar on Twitter_7
+  - first:
+      213: 8213599930931583906
+    second: Woostar on Twitter_8
+  - first:
+      213: 744612687568116800
+    second: Woostar on Twitter_9
+  - first:
+      213: 2640025477198480378
+    second: Woostar on Twitter_10
+  - first:
+      213: 6291347825265892149
+    second: Woostar on Twitter_11
+  - first:
+      213: -3819199178011721072
+    second: Woostar on Twitter_12
+  - first:
+      213: -4549413985379727191
+    second: Woostar on Twitter_13
+  - first:
+      213: 3463279343758786545
+    second: Woostar on Twitter_14
+  - first:
+      213: -9222717578237589545
+    second: Woostar on Twitter_15
+  - first:
+      213: -5536812469779617889
+    second: Woostar on Twitter_16
+  - first:
+      213: -3631183125115947976
+    second: Woostar on Twitter_17
+  - first:
+      213: -572767214205143393
+    second: Woostar on Twitter_18
+  - first:
+      213: -7766055575625683994
+    second: Woostar on Twitter_19
+  - first:
+      213: -9120474222073933020
+    second: Woostar on Twitter_20
+  - first:
+      213: 631031870829249125
+    second: Woostar on Twitter_21
+  - first:
+      213: -7327459347326930865
+    second: Woostar on Twitter_22
+  - first:
+      213: 7101590181996746331
+    second: Woostar on Twitter_23
+  - first:
+      213: 580339699904550381
+    second: Woostar on Twitter_24
+  - first:
+      213: -8306777703680999950
+    second: Woostar on Twitter_25
+  - first:
+      213: 6866421464489492973
+    second: Woostar on Twitter_26
+  - first:
+      213: -8322933685946001440
+    second: Woostar on Twitter_27
+  - first:
+      213: -2217396820007283753
+    second: Woostar on Twitter_28
+  - first:
+      213: 2352645473054020291
+    second: Woostar on Twitter_29
+  - first:
+      213: 1188953252298414808
+    second: Woostar on Twitter_30
+  - first:
+      213: -1497788565821385413
+    second: Woostar on Twitter_31
+  - first:
+      213: 2113217714097134838
+    second: Woostar on Twitter_32
+  - first:
+      213: 3734260768702252867
+    second: Woostar on Twitter_33
+  - first:
+      213: -3241669492141021008
+    second: Woostar on Twitter_34
+  - first:
+      213: 3271101092992645708
+    second: Woostar on Twitter_35
+  - first:
+      213: 3504261376374173394
+    second: Woostar on Twitter_36
+  - first:
+      213: -4257308278887952772
+    second: Woostar on Twitter_37
+  - first:
+      213: -3322775636744838995
+    second: Woostar on Twitter_38
+  - first:
+      213: -4628502721826945605
+    second: Woostar on Twitter_39
+  - first:
+      213: -4322969777651087011
+    second: Woostar on Twitter_40
+  - first:
+      213: 3112376028779195153
+    second: Woostar on Twitter_41
+  - first:
+      213: 298810985410393771
+    second: Woostar on Twitter_42
+  - first:
+      213: 6143413726382614209
+    second: Woostar on Twitter_43
+  - first:
+      213: -8528870561284514564
+    second: Woostar on Twitter_44
+  - first:
+      213: 6667918586020990655
+    second: Woostar on Twitter_45
+  - first:
+      213: -5618057711410137632
+    second: Woostar on Twitter_46
+  - first:
+      213: -2708400331186643064
+    second: Woostar on Twitter_47
+  - first:
+      213: -5824832475308618188
+    second: Woostar on Twitter_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Woostar on Twitter_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 661
+        width: 213
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77fcf95631e5ff50800000000000000
+      internalID: 6914680426451498877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 661
+        width: 214
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b653aef9a557130800000000000000
+      internalID: 3563854323009284931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 748
+        width: 133
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc03e5fe658482060800000000000000
+      internalID: 6928867564929822924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 748
+        width: 133
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944c35a1c7721bb10800000000000000
+      internalID: 1995419523872965705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 633
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a70601eb1f065f0800000000000000
+      internalID: -765346138032145761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_5
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 633
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c483fb63e29b50800000000000000
+      internalID: 6598586456837767895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 543
+        width: 177
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2237b80a3679de60800000000000000
+      internalID: 7987545405744689707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 540
+        width: 177
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc3f10aa48c38e0800000000000000
+      internalID: -1712347892595568843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 540
+        width: 177
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab9952ae919cf170800000000000000
+      internalID: 8213599930931583906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 546
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c1fb15b45655a00800000000000000
+      internalID: 744612687568116800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_10
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 546
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3856e1f2143a420800000000000000
+      internalID: 2640025477198480378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 554
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b566b938b5f4750800000000000000
+      internalID: 6291347825265892149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 554
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092c524259a7ffac0800000000000000
+      internalID: -3819199178011721072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 405
+        width: 111
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a84f39851c3dd0c0800000000000000
+      internalID: -4549413985379727191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 467
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb0b2c63a001030800000000000000
+      internalID: 3463279343758786545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_15
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 425
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7c5650a33520080800000000000000
+      internalID: -9222717578237589545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_16
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 473
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9725ded46a4923b0800000000000000
+      internalID: -5536812469779617889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_17
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 464
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8343211cf227b9dc0800000000000000
+      internalID: -3631183125115947976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 363
+        width: 177
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96ff4ad04f1d08f0800000000000000
+      internalID: -572767214205143393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 425
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eba3eca99d693490800000000000000
+      internalID: -7766055575625683994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 402
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4231d2274019d6180800000000000000
+      internalID: -9120474222073933020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 425
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5624ab6a420e1c800800000000000000
+      internalID: 631031870829249125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 402
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f407670db82af4a90800000000000000
+      internalID: -7327459347326930865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_23
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 374
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56515a05aaed8260800000000000000
+      internalID: 7101590181996746331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 383
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de51eddd1e7cd0800800000000000000
+      internalID: 580339699904550381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 203
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd75ff80b568bc80800000000000000
+      internalID: -8306777703680999950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 203
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1830d21fd6a4f50800000000000000
+      internalID: 6866421464489492973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 203
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e75e00d8effe7c80800000000000000
+      internalID: -8322933685946001440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 203
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3926927593a31e0800000000000000
+      internalID: -2217396820007283753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 293
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2d0d7c79646a020800000000000000
+      internalID: 2352645473054020291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_30
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 293
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dadac10fa2008010800000000000000
+      internalID: 1188953252298414808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 326
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3513992c39c63be0800000000000000
+      internalID: -1497788565821385413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_32
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 287
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc92dd8058a35d10800000000000000
+      internalID: 2113217714097134838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 270
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347cc295262c2d330800000000000000
+      internalID: 3734260768702252867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_34
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 203
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8a6b1a5c64303d0800000000000000
+      internalID: -3241669492141021008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 197
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af730fc19456d20800000000000000
+      internalID: 3271101092992645708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 236
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de67eac723a1a030800000000000000
+      internalID: 3504261376374173394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_37
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 189
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ecd813da00be4c0800000000000000
+      internalID: -4257308278887952772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_38
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 239
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da06087c92123e1d0800000000000000
+      internalID: -3322775636744838995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 180
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5839f1c4144cfb0800000000000000
+      internalID: -4628502721826945605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_40
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 227
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d598b5c24e9b104c0800000000000000
+      internalID: -4322969777651087011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 23
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b23d21281613b20800000000000000
+      internalID: 3112376028779195153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 48
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6fe501207952400800000000000000
+      internalID: 298810985410393771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 180
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66b452c3ac14550800000000000000
+      internalID: 6143413726382614209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 48
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc9953996d53a980800000000000000
+      internalID: -8528870561284514564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_45
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 146
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe810730a4398c50800000000000000
+      internalID: 6667918586020990655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_46
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 90
+        width: 144
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e531c7f646a802b0800000000000000
+      internalID: -5618057711410137632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_47
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 144
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd11e9f34d96ad0800000000000000
+      internalID: -2708400331186643064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woostar on Twitter_48
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e021999b90a2fa0800000000000000
+      internalID: -5824832475308618188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
