@@ -5,26 +5,31 @@ using UnityEngine;
 public class ControlaPer : MonoBehaviour
 {
     public LayerMask layermascara; // para quais layers eu vou verificar a colisao
-    public GameObject bulletPrefab;
-    public Transform shotSpawner; // Instanciar os tiros
 
+    [SerializeField]
+    GameObject bullet;
+
+    [SerializeField]
+    Transform bulletSpawnPos;
+
+    [SerializeField]
+    private float shootDelay = 0.5f;
+
+    private bool isShooting;
     private Rigidbody2D rb;
-    private Animator animator;
+
+    Animator animator;
     Vector3 diferenca;
+
     const float RAIO = 0.15f;
+    bool isSpriteLeft;
 
-    private float fireRate = 0.5f;
-    private float nextFire; // Onde pode atirar dnv
-
-    // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         diferenca = new Vector3(-0.15f, 0.80f, 0);
     }
-
-    // Update is called once per frame
     void Update()
     {
 
@@ -44,9 +49,15 @@ public class ControlaPer : MonoBehaviour
             animator.SetBool("CORRENDO", true);
             transform.Translate(3f * Time.deltaTime * horz, 0, 0); // faz personagem andar 
             if (horz < 0)
+            {
                 transform.localScale = new Vector3(-1, 1, 1); // vira a sprite
+                isSpriteLeft = true; // Para não bugar o tiro da personagem
+            }
             else
+            {
                 transform.localScale = new Vector3(1, 1, 1);
+                isSpriteLeft = false;
+            }
 
         }
         else
@@ -67,11 +78,18 @@ public class ControlaPer : MonoBehaviour
 
     private void shoot()
     {
-        if (Input.GetButtonDown("Fire1") && Time.time > nextFire) // Intervalo entre os tiros
+        if (Input.GetKey(KeyCode.Mouse0) || Input.GetKey(KeyCode.LeftControl)) // a condição só vai ser verdadeira se pressionar o botão do mouse
         {
-            nextFire = Time.time + fireRate;
-            animator.SetTrigger("Fire");
-            GameObject tempBullet = Instantiate(bulletPrefab, shotSpawner.position, shotSpawner.rotation);
+            if (isShooting) return;// para a animação e o tiro não ficarem infinitos ~ Vai verificar a condição abaixo, se ela ñ for verdadeira, vai fazer a verificação no resetshoot
+
+            animator.Play("PlayerShoot");
+            isShooting = true;
+
+            GameObject b = Instantiate(bullet);
+            b.GetComponent<BulletScriptPer>().StartShoot(isSpriteLeft);
+            b.transform.position = bulletSpawnPos.transform.position; // faz com que a posição do tiro saia do mesmo lugar que o spawn
+
+            Invoke("ResetShoot", shootDelay); // resetar a animação sem precisar fazer a teia de aranha
         }
     }
 
@@ -92,10 +110,15 @@ public class ControlaPer : MonoBehaviour
 
     void atq()
     {
-        if (Input.GetKeyDown(KeyCode.F))
+        if (Input.GetKey(KeyCode.Mouse1))
         {
-            animator.SetTrigger("CHUTA");
+            animator.Play("chutando");
         }
+    }
+    private void ResetShoot() // reseta a animação
+    {
+        isShooting = false;
+        animator.Play("Player");
     }
 }
 
