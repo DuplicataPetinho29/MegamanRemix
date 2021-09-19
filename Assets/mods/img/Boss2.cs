@@ -7,6 +7,8 @@ public class Boss2 : MonoBehaviour
 
     private ControlaPer thePlayer;
 
+    private Health saude;
+
     [SerializeField]
     Transform player;
 
@@ -35,6 +37,10 @@ public class Boss2 : MonoBehaviour
 
     public bool dam;
 
+    [SerializeField]
+    int saud = 4;
+
+
     Rigidbody2D rigidbody2d;
 
     Animator animator;
@@ -42,6 +48,8 @@ public class Boss2 : MonoBehaviour
     void Start()
     {
         thePlayer = FindObjectOfType<ControlaPer>();
+
+        saude = FindObjectOfType<Health>();
 
         rigidbody2d = GetComponent<Rigidbody2D>();
 
@@ -57,6 +65,7 @@ public class Boss2 : MonoBehaviour
             chasePlayer();
             if (playerInAtq)
             {
+                dano();
                 moveSpeed = 0;
                 animator.SetBool("CORRENDO", false);
                 animator.SetTrigger("ATQ");
@@ -127,6 +136,19 @@ public class Boss2 : MonoBehaviour
         {
             rigidbody2d.velocity = new Vector2(-moveSpeed, 0);
             transform.localScale = new Vector2(-1, 1);
+        }
+    }
+
+    void dano() // dano no boss
+    {
+        if (thePlayer.atk)
+        {
+            saud = saud - 1;
+        }
+
+        if (saud <= 0)
+        {
+            animator.SetTrigger("DAN");
         }
     }
 }

@@ -6,6 +6,10 @@ public class ControlaPer : MonoBehaviour
 {
     public LayerMask layermascara; // para quais layers eu vou verificar a colisao
 
+    private Boss2 boss;
+
+    private Health saude;
+
     [SerializeField]
     GameObject bullet;
 
@@ -24,15 +28,19 @@ public class ControlaPer : MonoBehaviour
     const float RAIO = 0.15f;
     bool isSpriteLeft;
 
+   public bool atk;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         diferenca = new Vector3(-0.15f, 0.80f, 0);
+        boss = FindObjectOfType<Boss2>();
+        saude = FindObjectOfType<Health>();
     }
     void Update()
     {
-
+        dano();
         corre();
         pula();
         atq();
@@ -108,17 +116,31 @@ public class ControlaPer : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position - diferenca, RAIO);
     }
 
-    void atq()
+    void atq() // ataque do personagem
     {
         if (Input.GetKey(KeyCode.Mouse1))
         {
             animator.Play("chutando");
+            atk = true; // nao funciona
         }
+        atk = false;
     }
     private void ResetShoot() // reseta a animação
     {
         isShooting = false;
         animator.Play("Player");
     }
+
+    void dano() // dano no personagem 
+    {
+
+        if (boss.playerInAtq)
+        {
+            animator.SetTrigger("DAN");
+            saude.health = saude.health- 1; // diminui tudo de uma vez ( bugado )
+        }
+        
+    }
+
 }
 
