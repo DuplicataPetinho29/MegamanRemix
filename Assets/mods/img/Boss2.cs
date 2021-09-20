@@ -150,5 +150,18 @@ public class Boss2 : MonoBehaviour
         {
             animator.SetTrigger("DAN");
         }
+
     }
-}
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Bullet"))
+        {
+            Destroy(collision.gameObject);
+            saud--;
+
+            if (saud <= 0)
+                Destroy(gameObject);
+        }
+    }
+
+    }
