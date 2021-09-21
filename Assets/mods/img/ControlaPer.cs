@@ -5,6 +5,7 @@ using UnityEngine;
 public class ControlaPer : MonoBehaviour
 {
     public LayerMask layermascara; // para quais layers eu vou verificar a colisao
+    public LayerMask enemyLayers;
 
     private Boss2 boss;
 
@@ -19,6 +20,12 @@ public class ControlaPer : MonoBehaviour
     [SerializeField]
     private float shootDelay = 0.5f;
 
+    [SerializeField]
+    Transform attackPoint;
+
+    [SerializeField]
+    private float attackRange = 0.5f;
+
     private bool isShooting;
     private Rigidbody2D rb;
 
@@ -28,7 +35,8 @@ public class ControlaPer : MonoBehaviour
     const float RAIO = 0.15f;
     bool isSpriteLeft;
 
-   public bool atk;
+    public int attackDamage = 2;
+    public bool atk; // que isso?
 
     void Start()
     {
@@ -114,6 +122,11 @@ public class ControlaPer : MonoBehaviour
     {
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(transform.position - diferenca, RAIO);
+
+        if (attackPoint == null)
+            return;
+
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 
     void atq() // ataque do personagem
@@ -121,9 +134,15 @@ public class ControlaPer : MonoBehaviour
         if (Input.GetKey(KeyCode.Mouse1))
         {
             animator.Play("chutando");
-            atk = true; // nao funciona
+           Collider2D[] hitEnemies =  Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+
+            foreach(Collider2D enemy in hitEnemies)
+            {
+                
+            }
+            
         }
-        atk = false;
+        
     }
     private void ResetShoot() // reseta a animação
     {

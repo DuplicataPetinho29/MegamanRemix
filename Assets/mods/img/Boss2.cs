@@ -160,7 +160,9 @@ public class Boss2 : MonoBehaviour
             saud--;
 
             if (saud <= 0)
-                Destroy(gameObject);
+         
+            Destroy(gameObject);
+
         }
     }
 
