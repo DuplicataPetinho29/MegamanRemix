@@ -1,49 +1,58 @@
 fileFormatVersion: 2
-guid: e713f44ba2d71fe48a4777cebe6e1159
+guid: b554500b6602d85429d1951c0321df7b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4295484500617177246
-    second: "Sem T\xEDtulo-2_0"
+      213: 2974038665095837263
+    second: cavaleiroBoss1_0
   - first:
-      213: -7814223431320426808
-    second: "Sem T\xEDtulo-2_1"
+      213: 4167066587304768904
+    second: cavaleiroBoss1_1
   - first:
-      213: -4866676413018144919
-    second: "Sem T\xEDtulo-2_2"
+      213: 2173201649531932103
+    second: cavaleiroBoss1_2
   - first:
-      213: -2039360503434808336
-    second: "Sem T\xEDtulo-2_3"
+      213: 4364177573208021472
+    second: cavaleiroBoss1_3
   - first:
-      213: 4671697016861180756
-    second: "Sem T\xEDtulo-2_4"
+      213: 3254638838373790236
+    second: cavaleiroBoss1_4
   - first:
-      213: 9066155384125065229
-    second: "Sem T\xEDtulo-2_5"
+      213: 4650094685547079470
+    second: cavaleiroBoss1_5
   - first:
-      213: 8318477938222632535
-    second: "Sem T\xEDtulo-2_6"
+      213: -2739621390169207863
+    second: cavaleiroBoss1_6
   - first:
-      213: 8772993809006267347
-    second: "Sem T\xEDtulo-2_7"
+      213: 7235764260244249765
+    second: cavaleiroBoss1_7
   - first:
-      213: 3420698954932752677
-    second: "Sem T\xEDtulo-2_8"
+      213: -1534344619304625747
+    second: cavaleiroBoss1_8
   - first:
-      213: -4405861467122853386
-    second: "Sem T\xEDtulo-2_9"
+      213: -419561334868333607
+    second: cavaleiroBoss1_9
   - first:
-      213: 2175370917802677060
-    second: "Sem T\xEDtulo-2_10"
+      213: 545759305792967550
+    second: cavaleiroBoss1_10
   - first:
-      213: -2527126250787445865
-    second: "Sem T\xEDtulo-2_11"
+      213: -6567527191232079739
+    second: cavaleiroBoss1_11
   - first:
-      213: 6697345509622741017
-    second: "Sem T\xEDtulo-2_12"
+      213: 8526525345163920419
+    second: cavaleiroBoss1_12
   - first:
-      213: 2011297279232467837
-    second: "Sem T\xEDtulo-2_13"
+      213: -1827640217068626429
+    second: cavaleiroBoss1_13
+  - first:
+      213: -834189354001618476
+    second: cavaleiroBoss1_14
+  - first:
+      213: -6699169903613874678
+    second: cavaleiroBoss1_15
+  - first:
+      213: -1200530887619224322
+    second: cavaleiroBoss1_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -87,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 15
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,13 +138,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_0"
+      name: cavaleiroBoss1_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 151
-        width: 19
-        height: 20
+        x: 6
+        y: 282
+        width: 72
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e98ab751560ac9b30800000000000000
-      internalID: 4295484500617177246
+      spriteID: f467055a868e54920800000000000000
+      internalID: 2974038665095837263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_1"
+      name: cavaleiroBoss1_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 151
-        width: 16
-        height: 20
+        x: 86
+        y: 281
+        width: 71
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c6ac94d03d4e8390800000000000000
-      internalID: -7814223431320426808
+      spriteID: 88533bbabf464d930800000000000000
+      internalID: 4167066587304768904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_2"
+      name: cavaleiroBoss1_2
       rect:
         serializedVersion: 2
-        x: 9
-        y: 130
-        width: 20
-        height: 20
+        x: 162
+        y: 277
+        width: 84
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96ff74d4697167cb0800000000000000
-      internalID: -4866676413018144919
+      spriteID: 7cdc4a9d263c82e10800000000000000
+      internalID: 2173201649531932103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_3"
+      name: cavaleiroBoss1_3
       rect:
         serializedVersion: 2
-        x: 32
-        y: 128
-        width: 19
-        height: 19
+        x: 11
+        y: 189
+        width: 64
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f37ec75d6cb2b3e0800000000000000
-      internalID: -2039360503434808336
+      spriteID: 0e95ac3616ca09c30800000000000000
+      internalID: 4364177573208021472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_4"
+      name: cavaleiroBoss1_4
       rect:
         serializedVersion: 2
-        x: 9
-        y: 108
-        width: 20
-        height: 20
+        x: 85
+        y: 187
+        width: 67
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45343446fa335d040800000000000000
-      internalID: 4671697016861180756
+      spriteID: c12b57997ccca2d20800000000000000
+      internalID: 3254638838373790236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_5"
+      name: cavaleiroBoss1_5
       rect:
         serializedVersion: 2
-        x: 35
-        y: 105
-        width: 19
-        height: 19
+        x: 168
+        y: 187
+        width: 67
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d08054d894471dd70800000000000000
-      internalID: 9066155384125065229
+      spriteID: e2727ffaa74788040800000000000000
+      internalID: 4650094685547079470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_6"
+      name: cavaleiroBoss1_6
       rect:
         serializedVersion: 2
-        x: 9
-        y: 89
-        width: 16
-        height: 16
+        x: 245
+        y: 188
+        width: 60
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75e0fa39c9b217370800000000000000
-      internalID: 8318477938222632535
+      spriteID: 9cb07eb5cd8eaf9d0800000000000000
+      internalID: -2739621390169207863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_7"
+      name: cavaleiroBoss1_7
       rect:
         serializedVersion: 2
-        x: 35
-        y: 89
-        width: 20
-        height: 8
+        x: 323
+        y: 188
+        width: 66
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,20 +299,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3db0582536fefb970800000000000000
-      internalID: 8772993809006267347
+      spriteID: 5ac535a02499a6460800000000000000
+      internalID: 7235764260244249765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_8"
+      name: cavaleiroBoss1_8
       rect:
         serializedVersion: 2
-        x: 8
-        y: 67
-        width: 19
-        height: 20
+        x: 401
+        y: 188
+        width: 90
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +320,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 521115c6393c87f20800000000000000
-      internalID: 3420698954932752677
+      spriteID: da9d053b2b9e4bae0800000000000000
+      internalID: -1534344619304625747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_9"
+      name: cavaleiroBoss1_9
       rect:
         serializedVersion: 2
-        x: 35
-        y: 72
-        width: 16
-        height: 12
+        x: 6
+        y: 97
+        width: 56
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,20 +341,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f99f82c65c3bd2c0800000000000000
-      internalID: -4405861467122853386
+      spriteID: 9db2fa9503b6d2af0800000000000000
+      internalID: -419561334868333607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_10"
+      name: cavaleiroBoss1_10
       rect:
         serializedVersion: 2
-        x: 9
-        y: 49
-        width: 16
-        height: 16
+        x: 76
+        y: 97
+        width: 114
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,20 +362,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 443185af258703e10800000000000000
-      internalID: 2175370917802677060
+      spriteID: e7357a2723de29700800000000000000
+      internalID: 545759305792967550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_11"
+      name: cavaleiroBoss1_11
       rect:
         serializedVersion: 2
-        x: 37
-        y: 46
-        width: 9
-        height: 22
+        x: 202
+        y: 95
+        width: 111
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,20 +383,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 793ef3f6018ddecd0800000000000000
-      internalID: -2527126250787445865
+      spriteID: 58894e9d0d47bd4a0800000000000000
+      internalID: -6567527191232079739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_12"
+      name: cavaleiroBoss1_12
       rect:
         serializedVersion: 2
-        x: 5
-        y: 28
-        width: 16
-        height: 17
+        x: 321
+        y: 94
+        width: 92
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,20 +404,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 918fe17c140c1fc50800000000000000
-      internalID: 6697345509622741017
+      spriteID: 3244cde30ad445670800000000000000
+      internalID: 8526525345163920419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sem T\xEDtulo-2_13"
+      name: cavaleiroBoss1_13
       rect:
         serializedVersion: 2
-        x: 8
-        y: 9
-        width: 16
-        height: 17
+        x: 6
+        y: 8
+        width: 82
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,8 +425,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d736c5a183099eb10800000000000000
-      internalID: 2011297279232467837
+      spriteID: 30e1864e7eae2a6e0800000000000000
+      internalID: -1827640217068626429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavaleiroBoss1_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92257c33d5c64f0800000000000000
+      internalID: -834189354001618476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavaleiroBoss1_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 143
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e6b156774c703a0800000000000000
+      internalID: -6699169903613874678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavaleiroBoss1_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3
+        width: 161
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc5295b48bd65fe0800000000000000
+      internalID: -1200530887619224322
       vertices: []
       indices: 
       edges: []
