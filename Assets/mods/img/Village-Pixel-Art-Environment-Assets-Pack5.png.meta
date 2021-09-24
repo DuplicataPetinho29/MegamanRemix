@@ -1,0 +1,2984 @@
+fileFormatVersion: 2
+guid: da2952b247ae3ef41912a2fab9af0b60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -517104669611720928
+    second: Village-Pixel-Art-Environment-Assets-Pack5_0
+  - first:
+      213: 4659903823334458126
+    second: Village-Pixel-Art-Environment-Assets-Pack5_1
+  - first:
+      213: 4645255243946993865
+    second: Village-Pixel-Art-Environment-Assets-Pack5_2
+  - first:
+      213: -8459577064424903618
+    second: Village-Pixel-Art-Environment-Assets-Pack5_3
+  - first:
+      213: 5548469758708038916
+    second: Village-Pixel-Art-Environment-Assets-Pack5_4
+  - first:
+      213: -1845772713059472403
+    second: Village-Pixel-Art-Environment-Assets-Pack5_5
+  - first:
+      213: -3222222432831381544
+    second: Village-Pixel-Art-Environment-Assets-Pack5_6
+  - first:
+      213: 3643839979039999228
+    second: Village-Pixel-Art-Environment-Assets-Pack5_7
+  - first:
+      213: 4143593985928781079
+    second: Village-Pixel-Art-Environment-Assets-Pack5_8
+  - first:
+      213: 1341581138669332674
+    second: Village-Pixel-Art-Environment-Assets-Pack5_9
+  - first:
+      213: -4265293653879931728
+    second: Village-Pixel-Art-Environment-Assets-Pack5_10
+  - first:
+      213: 7695111228782017062
+    second: Village-Pixel-Art-Environment-Assets-Pack5_11
+  - first:
+      213: -2615819783966184277
+    second: Village-Pixel-Art-Environment-Assets-Pack5_12
+  - first:
+      213: -7078155565873205028
+    second: Village-Pixel-Art-Environment-Assets-Pack5_13
+  - first:
+      213: -5706815179664573231
+    second: Village-Pixel-Art-Environment-Assets-Pack5_14
+  - first:
+      213: -240651727793000589
+    second: Village-Pixel-Art-Environment-Assets-Pack5_15
+  - first:
+      213: -3492144181463989951
+    second: Village-Pixel-Art-Environment-Assets-Pack5_16
+  - first:
+      213: 8494320298509450950
+    second: Village-Pixel-Art-Environment-Assets-Pack5_17
+  - first:
+      213: -8567009747871926861
+    second: Village-Pixel-Art-Environment-Assets-Pack5_18
+  - first:
+      213: -4018361446804418694
+    second: Village-Pixel-Art-Environment-Assets-Pack5_19
+  - first:
+      213: 937900954656388464
+    second: Village-Pixel-Art-Environment-Assets-Pack5_20
+  - first:
+      213: 137017323430406817
+    second: Village-Pixel-Art-Environment-Assets-Pack5_21
+  - first:
+      213: -5718343694661624639
+    second: Village-Pixel-Art-Environment-Assets-Pack5_22
+  - first:
+      213: -687159235149488814
+    second: Village-Pixel-Art-Environment-Assets-Pack5_23
+  - first:
+      213: -4781914511149217568
+    second: Village-Pixel-Art-Environment-Assets-Pack5_24
+  - first:
+      213: 7052079393880743760
+    second: Village-Pixel-Art-Environment-Assets-Pack5_25
+  - first:
+      213: -5912831972454549054
+    second: Village-Pixel-Art-Environment-Assets-Pack5_26
+  - first:
+      213: -45536782596177469
+    second: Village-Pixel-Art-Environment-Assets-Pack5_27
+  - first:
+      213: 1286275743431665797
+    second: Village-Pixel-Art-Environment-Assets-Pack5_28
+  - first:
+      213: 86233512842237300
+    second: Village-Pixel-Art-Environment-Assets-Pack5_29
+  - first:
+      213: 5099343858779820185
+    second: Village-Pixel-Art-Environment-Assets-Pack5_30
+  - first:
+      213: -2358072592335552382
+    second: Village-Pixel-Art-Environment-Assets-Pack5_31
+  - first:
+      213: 5157801928339284003
+    second: Village-Pixel-Art-Environment-Assets-Pack5_32
+  - first:
+      213: -7702256376102935127
+    second: Village-Pixel-Art-Environment-Assets-Pack5_33
+  - first:
+      213: 8727538463296202490
+    second: Village-Pixel-Art-Environment-Assets-Pack5_34
+  - first:
+      213: 2643280631883666637
+    second: Village-Pixel-Art-Environment-Assets-Pack5_35
+  - first:
+      213: -7407647676448246854
+    second: Village-Pixel-Art-Environment-Assets-Pack5_36
+  - first:
+      213: -1651576767060121488
+    second: Village-Pixel-Art-Environment-Assets-Pack5_37
+  - first:
+      213: -7497406064525113970
+    second: Village-Pixel-Art-Environment-Assets-Pack5_38
+  - first:
+      213: 2522243131492017653
+    second: Village-Pixel-Art-Environment-Assets-Pack5_39
+  - first:
+      213: -6573091800714653119
+    second: Village-Pixel-Art-Environment-Assets-Pack5_40
+  - first:
+      213: -885008075176152316
+    second: Village-Pixel-Art-Environment-Assets-Pack5_41
+  - first:
+      213: -8241140343087801268
+    second: Village-Pixel-Art-Environment-Assets-Pack5_42
+  - first:
+      213: 7830489546742303538
+    second: Village-Pixel-Art-Environment-Assets-Pack5_43
+  - first:
+      213: 6077769812606029782
+    second: Village-Pixel-Art-Environment-Assets-Pack5_44
+  - first:
+      213: -8332839732976317005
+    second: Village-Pixel-Art-Environment-Assets-Pack5_45
+  - first:
+      213: -3416396577148171458
+    second: Village-Pixel-Art-Environment-Assets-Pack5_46
+  - first:
+      213: -3954212700803056068
+    second: Village-Pixel-Art-Environment-Assets-Pack5_47
+  - first:
+      213: -8260266453214321516
+    second: Village-Pixel-Art-Environment-Assets-Pack5_48
+  - first:
+      213: -2625976925226085221
+    second: Village-Pixel-Art-Environment-Assets-Pack5_49
+  - first:
+      213: 602494801764957046
+    second: Village-Pixel-Art-Environment-Assets-Pack5_50
+  - first:
+      213: 8173899152464635130
+    second: Village-Pixel-Art-Environment-Assets-Pack5_51
+  - first:
+      213: -7126250545808663858
+    second: Village-Pixel-Art-Environment-Assets-Pack5_52
+  - first:
+      213: -724316629187989763
+    second: Village-Pixel-Art-Environment-Assets-Pack5_53
+  - first:
+      213: -1651144164594266312
+    second: Village-Pixel-Art-Environment-Assets-Pack5_54
+  - first:
+      213: 2036503775428616458
+    second: Village-Pixel-Art-Environment-Assets-Pack5_55
+  - first:
+      213: 7393464784962455659
+    second: Village-Pixel-Art-Environment-Assets-Pack5_56
+  - first:
+      213: -6999053700979261646
+    second: Village-Pixel-Art-Environment-Assets-Pack5_57
+  - first:
+      213: -838209434702847431
+    second: Village-Pixel-Art-Environment-Assets-Pack5_58
+  - first:
+      213: -374128146157830141
+    second: Village-Pixel-Art-Environment-Assets-Pack5_59
+  - first:
+      213: -5782488268675106577
+    second: Village-Pixel-Art-Environment-Assets-Pack5_60
+  - first:
+      213: 8429393578138577621
+    second: Village-Pixel-Art-Environment-Assets-Pack5_61
+  - first:
+      213: -6586538402794201258
+    second: Village-Pixel-Art-Environment-Assets-Pack5_62
+  - first:
+      213: -3200597087867843837
+    second: Village-Pixel-Art-Environment-Assets-Pack5_63
+  - first:
+      213: 3690789019398990757
+    second: Village-Pixel-Art-Environment-Assets-Pack5_64
+  - first:
+      213: -8628341416252850030
+    second: Village-Pixel-Art-Environment-Assets-Pack5_65
+  - first:
+      213: 2004211670742406770
+    second: Village-Pixel-Art-Environment-Assets-Pack5_66
+  - first:
+      213: -14936712060710109
+    second: Village-Pixel-Art-Environment-Assets-Pack5_67
+  - first:
+      213: 1272096783201680521
+    second: Village-Pixel-Art-Environment-Assets-Pack5_68
+  - first:
+      213: 8102105952324164308
+    second: Village-Pixel-Art-Environment-Assets-Pack5_69
+  - first:
+      213: -3062988828178871155
+    second: Village-Pixel-Art-Environment-Assets-Pack5_70
+  - first:
+      213: 945434283328396133
+    second: Village-Pixel-Art-Environment-Assets-Pack5_71
+  - first:
+      213: 8935148413661261545
+    second: Village-Pixel-Art-Environment-Assets-Pack5_72
+  - first:
+      213: -6172569809619101513
+    second: Village-Pixel-Art-Environment-Assets-Pack5_73
+  - first:
+      213: 3861976830934491932
+    second: Village-Pixel-Art-Environment-Assets-Pack5_74
+  - first:
+      213: -8839280484546920932
+    second: Village-Pixel-Art-Environment-Assets-Pack5_75
+  - first:
+      213: -2557124491025243977
+    second: Village-Pixel-Art-Environment-Assets-Pack5_76
+  - first:
+      213: -2820153633996880839
+    second: Village-Pixel-Art-Environment-Assets-Pack5_77
+  - first:
+      213: -4426316163502853441
+    second: Village-Pixel-Art-Environment-Assets-Pack5_78
+  - first:
+      213: 8481280883900107258
+    second: Village-Pixel-Art-Environment-Assets-Pack5_79
+  - first:
+      213: -4321473695672640476
+    second: Village-Pixel-Art-Environment-Assets-Pack5_80
+  - first:
+      213: -3522097756782520069
+    second: Village-Pixel-Art-Environment-Assets-Pack5_81
+  - first:
+      213: 3430001021909999304
+    second: Village-Pixel-Art-Environment-Assets-Pack5_82
+  - first:
+      213: 3493964397828307930
+    second: Village-Pixel-Art-Environment-Assets-Pack5_83
+  - first:
+      213: -2737665849628427025
+    second: Village-Pixel-Art-Environment-Assets-Pack5_84
+  - first:
+      213: -8263719933850011071
+    second: Village-Pixel-Art-Environment-Assets-Pack5_85
+  - first:
+      213: -2724306701853392592
+    second: Village-Pixel-Art-Environment-Assets-Pack5_86
+  - first:
+      213: 3345779917562699536
+    second: Village-Pixel-Art-Environment-Assets-Pack5_87
+  - first:
+      213: -5426587014453183891
+    second: Village-Pixel-Art-Environment-Assets-Pack5_88
+  - first:
+      213: -3862160893401167602
+    second: Village-Pixel-Art-Environment-Assets-Pack5_89
+  - first:
+      213: 1726313733895068364
+    second: Village-Pixel-Art-Environment-Assets-Pack5_90
+  - first:
+      213: 8137831507619707555
+    second: Village-Pixel-Art-Environment-Assets-Pack5_91
+  - first:
+      213: -2361104540822523614
+    second: Village-Pixel-Art-Environment-Assets-Pack5_92
+  - first:
+      213: 2790639351840688603
+    second: Village-Pixel-Art-Environment-Assets-Pack5_93
+  - first:
+      213: 4691977702780673354
+    second: Village-Pixel-Art-Environment-Assets-Pack5_94
+  - first:
+      213: -3102053873930583559
+    second: Village-Pixel-Art-Environment-Assets-Pack5_95
+  - first:
+      213: -9051987347153629365
+    second: Village-Pixel-Art-Environment-Assets-Pack5_96
+  - first:
+      213: 2912118094049073020
+    second: Village-Pixel-Art-Environment-Assets-Pack5_97
+  - first:
+      213: 6689660281157781808
+    second: Village-Pixel-Art-Environment-Assets-Pack5_98
+  - first:
+      213: -2511815811222332322
+    second: Village-Pixel-Art-Environment-Assets-Pack5_99
+  - first:
+      213: -4342110785990573615
+    second: Village-Pixel-Art-Environment-Assets-Pack5_100
+  - first:
+      213: 5419994980029575335
+    second: Village-Pixel-Art-Environment-Assets-Pack5_101
+  - first:
+      213: 9061375904663548911
+    second: Village-Pixel-Art-Environment-Assets-Pack5_102
+  - first:
+      213: 2164002058854636787
+    second: Village-Pixel-Art-Environment-Assets-Pack5_103
+  - first:
+      213: -8637622362991830002
+    second: Village-Pixel-Art-Environment-Assets-Pack5_104
+  - first:
+      213: -346604539528587636
+    second: Village-Pixel-Art-Environment-Assets-Pack5_105
+  - first:
+      213: -1771116659213802223
+    second: Village-Pixel-Art-Environment-Assets-Pack5_106
+  - first:
+      213: 3308669550364998732
+    second: Village-Pixel-Art-Environment-Assets-Pack5_107
+  - first:
+      213: -8605940997466067118
+    second: Village-Pixel-Art-Environment-Assets-Pack5_108
+  - first:
+      213: -5040372132260372376
+    second: Village-Pixel-Art-Environment-Assets-Pack5_109
+  - first:
+      213: 8637662513561428635
+    second: Village-Pixel-Art-Environment-Assets-Pack5_110
+  - first:
+      213: 6654292342980530380
+    second: Village-Pixel-Art-Environment-Assets-Pack5_111
+  - first:
+      213: 7020239899050394379
+    second: Village-Pixel-Art-Environment-Assets-Pack5_112
+  - first:
+      213: 293295680045172699
+    second: Village-Pixel-Art-Environment-Assets-Pack5_113
+  - first:
+      213: 1564635072285722590
+    second: Village-Pixel-Art-Environment-Assets-Pack5_114
+  - first:
+      213: 8101629613380370895
+    second: Village-Pixel-Art-Environment-Assets-Pack5_115
+  - first:
+      213: -7600207177674326568
+    second: Village-Pixel-Art-Environment-Assets-Pack5_116
+  - first:
+      213: 1348770505988521992
+    second: Village-Pixel-Art-Environment-Assets-Pack5_117
+  - first:
+      213: -2865285165847426669
+    second: Village-Pixel-Art-Environment-Assets-Pack5_118
+  - first:
+      213: 1528613273892246581
+    second: Village-Pixel-Art-Environment-Assets-Pack5_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 825
+        width: 249
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff810fa00e2d8f0800000000000000
+      internalID: -517104669611720928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 817
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03c55d86dd4ba040800000000000000
+      internalID: 4659903823334458126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_2
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 816
+        width: 205
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c82b726803477040800000000000000
+      internalID: 4645255243946993865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_3
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 818
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c69ec0b7b899a80800000000000000
+      internalID: -8459577064424903618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 891
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d3ac639df100d40800000000000000
+      internalID: 5548469758708038916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_5
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 886
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb2bfd2f7f7266e0800000000000000
+      internalID: -1845772713059472403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_6
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 889
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df5ac7f4cd5843d0800000000000000
+      internalID: -3222222432831381544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 886
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4cb01b725819230800000000000000
+      internalID: 3643839979039999228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_8
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 693
+        width: 116
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ddab8c6c0018930800000000000000
+      internalID: 4143593985928781079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_9
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 622
+        width: 116
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8efb700f04e9210800000000000000
+      internalID: 1341581138669332674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_10
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 544
+        width: 116
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc32c13502aec4c0800000000000000
+      internalID: -4265293653879931728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 855
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62afba264e68aca60800000000000000
+      internalID: 7695111228782017062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 858
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca14404cdb2bbd0800000000000000
+      internalID: -2615819783966184277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 818
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd07c27b30755cd90800000000000000
+      internalID: -7078155565873205028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_14
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 816
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc394184d15dc0b0800000000000000
+      internalID: -5706815179664573231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 778
+        width: 86
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51251763, y: 0.43562287}
+      border: {x: 0, y: 0, z: 0, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f6052578809acf0800000000000000
+      internalID: -240651727793000589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 782
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.4671402, y: -0.1470697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141446f7e59698fc0800000000000000
+      internalID: -3492144181463989951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 800
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cebb018e43e1e570800000000000000
+      internalID: 8494320298509450950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 803
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5f8c6360edb1980800000000000000
+      internalID: -8567009747871926861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_19
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 803
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f0918ed89eb38c0800000000000000
+      internalID: -4018361446804418694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 802
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0753bc4f2f7140d00800000000000000
+      internalID: 937900954656388464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_21
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 816
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aae42b9788c6e100800000000000000
+      internalID: 137017323430406817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_22
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 798
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc5910f4bc54a0b0800000000000000
+      internalID: -5718343694661624639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 635
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d19ccf058b676f0800000000000000
+      internalID: -687159235149488814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_24
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 687
+        width: 165
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e84aa8761a33adb0800000000000000
+      internalID: -4781914511149217568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_25
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 781
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f1d1068d40ed160800000000000000
+      internalID: 7052079393880743760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_26
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 781
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9364906a661fda0800000000000000
+      internalID: -5912831972454549054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_27
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 736
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1042999883e5ff0800000000000000
+      internalID: -45536782596177469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 635
+        width: 219
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588227249f4c9d110800000000000000
+      internalID: 1286275743431665797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_29
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 635
+        width: 102
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47512bc4cec523100800000000000000
+      internalID: 86233512842237300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_30
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 738
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990142ad83284c640800000000000000
+      internalID: 5099343858779820185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_31
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 688
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280414b8871764fd0800000000000000
+      internalID: -2358072592335552382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 637
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320ec70d681349740800000000000000
+      internalID: 5157801928339284003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_33
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 636
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5a56d52a61c1590800000000000000
+      internalID: -7702256376102935127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_34
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 636
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6245cedf17e1970800000000000000
+      internalID: 8727538463296202490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_35
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 637
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc49811eab1dea420800000000000000
+      internalID: 2643280631883666637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_36
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 635
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3fd088fafb23990800000000000000
+      internalID: -7407647676448246854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_37
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 640
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078e7184eab6419e0800000000000000
+      internalID: -1651576767060121488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_38
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 640
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850f1348ecd3f790800000000000000
+      internalID: -7497406064525113970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_39
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 578
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f520c1c3cec00320800000000000000
+      internalID: 2522243131492017653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 450
+        width: 205
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142de5e35dfa7c4a0800000000000000
+      internalID: -6573091800714653119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f5c738d1d7b3f0800000000000000
+      internalID: -885008075176152316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_42
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5c1a758691ad80800000000000000
+      internalID: -8241140343087801268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_43
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 600
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b0cfa41cc7bac60800000000000000
+      internalID: 7830489546742303538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_44
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 600
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df89f27173985450800000000000000
+      internalID: 6077769812606029782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_45
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 600
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8fa1896ecb5c80800000000000000
+      internalID: -8332839732976317005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_46
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 592
+        width: 87
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b0937f9658690d0800000000000000
+      internalID: -3416396577148171458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 450
+        width: 407
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ebb4abf70df19c0800000000000000
+      internalID: -3954212700803056068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_48
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 554
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a512fc63ad5d80800000000000000
+      internalID: -8260266453214321516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_49
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 556
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94d68746e7ae8bd0800000000000000
+      internalID: -2625976925226085221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_50
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 557
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b383e74dd7c5800800000000000000
+      internalID: 602494801764957046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_51
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 558
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af46584d8f58f6170800000000000000
+      internalID: 8173899152464635130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_52
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 544
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca14a492e87a1d90800000000000000
+      internalID: -7126250545808663858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_53
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 529
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe67540dd5b2f5f0800000000000000
+      internalID: -724316629187989763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_54
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 525
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f46646125f519e0800000000000000
+      internalID: -1651144164594266312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_55
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 526
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a012a26d46d134c10800000000000000
+      internalID: 2036503775428616458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_56
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 525
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b680c07bc0dda9660800000000000000
+      internalID: 7393464784962455659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_57
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 527
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7f35ddbd5ede90800000000000000
+      internalID: -6999053700979261646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_58
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 477
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932e72dc5f41e54f0800000000000000
+      internalID: -838209434702847431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_59
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 460
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30089cbee64decaf0800000000000000
+      internalID: -374128146157830141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_60
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 460
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8b1cb7e8970cfa0800000000000000
+      internalID: -5782488268675106577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_61
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 484
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daa8e86cc83bf470800000000000000
+      internalID: 8429393578138577621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_62
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 480
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f9bf9383ae794a0800000000000000
+      internalID: -6586538402794201258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_63
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 369
+        width: 116
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bcc74f7e13593d0800000000000000
+      internalID: -3200597087867843837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_64
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 370
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab603afe01583330800000000000000
+      internalID: 3690789019398990757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 368
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29045736239f14880800000000000000
+      internalID: -8628341416252850030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_66
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 440
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2761b4155e360db10800000000000000
+      internalID: 2004211670742406770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_67
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 441
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3235287b32feacff0800000000000000
+      internalID: -14936712060710109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_68
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 428
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c37a2d84567a110800000000000000
+      internalID: 1272096783201680521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_69
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 423
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da1cd4df66707070800000000000000
+      internalID: 8102105952324164308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_70
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 423
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c8861a3e31e75d0800000000000000
+      internalID: -3062988828178871155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_71
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 423
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd348b87bde1d00800000000000000
+      internalID: 945434283328396133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_72
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 370
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeacab4426000c70800000000000000
+      internalID: 8935148413661261545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_73
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 368
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b85a5a3670a65aa0800000000000000
+      internalID: -6172569809619101513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_74
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 428
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a3a2577f789530800000000000000
+      internalID: 3861976830934491932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_75
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 428
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eb9885b31945580800000000000000
+      internalID: -8839280484546920932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 364
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b02df9d2d4438cd0800000000000000
+      internalID: -2557124491025243977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 360
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934c691363dccd8d0800000000000000
+      internalID: -2820153633996880839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_78
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 397
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2b7d2a6e09292c0800000000000000
+      internalID: -4426316163502853441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_79
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 397
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af94d25370093b570800000000000000
+      internalID: 8481280883900107258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_80
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 371
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cdc37e19a0704c0800000000000000
+      internalID: -4321473695672640476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 371
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf817c640cefe1fc0800000000000000
+      internalID: -3522097756782520069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_82
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 371
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce1c2aa1cfc99f20800000000000000
+      internalID: 3430001021909999304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_83
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 378
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbfa66ab1e0d7030800000000000000
+      internalID: 3493964397828307930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_84
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 378
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecfd2f1a6bd10ad0800000000000000
+      internalID: -2737665849628427025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_85
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 380
+        width: 113
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a3e83d08e515d80800000000000000
+      internalID: -8263719933850011071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_86
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 380
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03100d81d71513ad0800000000000000
+      internalID: -2724306701853392592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_87
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 401
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd5fabb199e6e20800000000000000
+      internalID: 3345779917562699536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_88
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 401
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a35c49cd3e0b4b0800000000000000
+      internalID: -5426587014453183891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_89
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 391
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e090b6b4129d66ac0800000000000000
+      internalID: -3862160893401167602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_90
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 384
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca91bfc13915f710800000000000000
+      internalID: 1726313733895068364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_91
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 384
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa77add3a26fe070800000000000000
+      internalID: 8137831507619707555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_92
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 371
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22136b60eebab3fd0800000000000000
+      internalID: -2361104540822523614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_93
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 371
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c0be74b75ab620800000000000000
+      internalID: 2790639351840688603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_94
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 328
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9b4c8cd04d1140800000000000000
+      internalID: 4691977702780673354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_95
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 331
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f14e32ef6a43f4d0800000000000000
+      internalID: -3102053873930583559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_96
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 331
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fc39d9771e06280800000000000000
+      internalID: -9051987347153629365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 202
+        width: 269
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7758cb3afbe96820800000000000000
+      internalID: 2912118094049073020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_98
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 202
+        width: 341
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0390376159276dc50800000000000000
+      internalID: 6689660281157781808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_99
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 331
+        width: 161
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c12eee3dc342dd0800000000000000
+      internalID: -2511815811222332322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_100
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 275
+        width: 169
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1c3a1ee39bdb3c0800000000000000
+      internalID: -4342110785990573615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_101
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 273
+        width: 179
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0301dc7b0b73b40800000000000000
+      internalID: 5419994980029575335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_102
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 274
+        width: 162
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe331c5406970cd70800000000000000
+      internalID: 9061375904663548911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_103
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 278
+        width: 115
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc9e3b3864180e10800000000000000
+      internalID: 2164002058854636787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_104
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 224
+        width: 209
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd6e59930012880800000000000000
+      internalID: -8637622362991830002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_105
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 224
+        width: 265
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c865cd7f10d903bf0800000000000000
+      internalID: -346604539528587636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_106
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 224
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115e8cf38cabb67e0800000000000000
+      internalID: -1771116659213802223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_107
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 224
+        width: 114
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c38ac0d61caed20800000000000000
+      internalID: 3308669550364998732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_108
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 45
+        width: 413
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f6010524e819880800000000000000
+      internalID: -8605940997466067118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_109
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 44
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860a7d030400d0ab0800000000000000
+      internalID: -5040372132260372376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_110
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 93
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b926982ba442fd770800000000000000
+      internalID: 8637662513561428635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_111
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 45
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0d4f641abc85c50800000000000000
+      internalID: 6654292342980530380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_112
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 164
+        width: 175
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b034cec4ef6ec6160800000000000000
+      internalID: 7020239899050394379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_113
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 164
+        width: 282
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7cf37fddef11400800000000000000
+      internalID: 293295680045172699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_114
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 164
+        width: 118
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed745b6fe43b6b510800000000000000
+      internalID: 1564635072285722590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_115
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 94
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc182578535ce6070800000000000000
+      internalID: 8101629613380370895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_116
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 94
+        width: 116
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddf85be6d3a68690800000000000000
+      internalID: -7600207177674326568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_117
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 93
+        width: 382
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80048fc01abc7b210800000000000000
+      internalID: 1348770505988521992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_118
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 46
+        width: 361
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399c77592567c38d0800000000000000
+      internalID: -2865285165847426669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village-Pixel-Art-Environment-Assets-Pack5_119
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 44
+        width: 179
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345b457ca9b63510800000000000000
+      internalID: 1528613273892246581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
