@@ -38,7 +38,7 @@ public class Boss2 : MonoBehaviour
     public bool dam;
 
     [SerializeField]
-    int saud = 4;
+    int saud = 10;
 
 
     Rigidbody2D rigidbody2d;
@@ -70,6 +70,13 @@ public class Boss2 : MonoBehaviour
                 animator.SetBool("CORRENDO", false);
                 animator.SetTrigger("ATQ");
             }
+
+            if (saud <= 1)
+            {
+                playerInRange = false;
+                chasePlayer();
+            }
+
             else
             {
                 barra();
@@ -146,10 +153,10 @@ public class Boss2 : MonoBehaviour
             saud = saud - 1;
         }
 
-        if (saud <= 0)
-        {
-            animator.SetTrigger("DAN");
-        }
+       // if (saud <= 0)
+       // {
+       //     animator.SetTrigger("DAN");
+      //  }
 
     }
     private void OnTriggerEnter2D(Collider2D collision)
@@ -158,9 +165,12 @@ public class Boss2 : MonoBehaviour
         {
             Destroy(collision.gameObject);
             saud--;
+            animator.Play("DanoBossFire");
 
-            if (saud <= 0)
-         
+            if (saud <= 1)
+            animator.Play("DanoBossFire");
+
+            if(saud <=0)
             Destroy(gameObject);
 
         }

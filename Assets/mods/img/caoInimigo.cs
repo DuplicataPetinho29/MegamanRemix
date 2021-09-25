@@ -38,6 +38,9 @@ public class caoInimigo : MonoBehaviour
     Rigidbody2D rigidbody2d;
 
     Animator animator;
+
+    private int health = 10;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -138,4 +141,16 @@ public class caoInimigo : MonoBehaviour
     //     else
     //         dam = false;
     // }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Bullet"))
+        {
+            Destroy(collision.gameObject);
+            health--;
+            animator.Play("LoboEnemyDanoFire");
+
+            if (health <= 0)
+                Destroy(gameObject);
+        }
+    }
 }

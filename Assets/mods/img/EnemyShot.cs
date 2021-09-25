@@ -30,6 +30,8 @@ public class EnemyShot : MonoBehaviour
 
     Animator animator;
 
+    private int health = 10;
+
     void Start()
     {
         thePlayer = FindObjectOfType<ControlaPer>();
@@ -57,7 +59,11 @@ public class EnemyShot : MonoBehaviour
                     animator.SetBool("Fire", true);
 
                 }
-
+                if (health <= 1)
+                {
+                    Detected = false;
+                    chasePlayer();
+                }
             }
             else
             {
@@ -104,4 +110,20 @@ public class EnemyShot : MonoBehaviour
             transform.localScale = new Vector2(-2, 2);
         }
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Bullet"))
+        {
+            Destroy(collision.gameObject);
+            health--;
+            animator.Play("EnemyShotDanoFire");
+
+            if (health <= 1)
+                animator.Play("DeadEnemyShot");
+
+            if (health <= 0)
+                Destroy(gameObject);
+        }
+    }
+
 }

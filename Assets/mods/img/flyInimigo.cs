@@ -1,5 +1,5 @@
 ﻿using System.Collections;
-using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class flyInimigo : MonoBehaviour
@@ -26,11 +26,14 @@ public class flyInimigo : MonoBehaviour
 
     public bool InGround;
 
+    private int health = 10;
+
 
 
 
 
     Rigidbody2D rigidbody2d;
+    Animator animator;
 
 
 
@@ -42,6 +45,7 @@ public class flyInimigo : MonoBehaviour
 
         rigidbody2d = GetComponent<Rigidbody2D>();
 
+        animator = GetComponent<Animator>();
 
     }
 
@@ -99,5 +103,18 @@ public class flyInimigo : MonoBehaviour
             transform.localScale = new Vector2(1, 1);
         }
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Bullet"))
+        {
+            Destroy(collision.gameObject);
+            health--;
+            animator.Play("DanoFlyEnemy");
 
+        }
+        if (health <= 0)
+        {
+            Destroy(gameObject);
+        }
+    }
 }
