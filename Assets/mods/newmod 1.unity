@@ -719,6 +719,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FlyEnemy
       objectReference: {fileID: 0}
+    - target: {fileID: 7796168226997747898, guid: cb4d71b7b0cf328489c0fcb2d2941365,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 7796168226997747902, guid: cb4d71b7b0cf328489c0fcb2d2941365,
         type: 3}
       propertyPath: m_RootOrder
@@ -25016,6 +25021,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: FlyEnemy (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7796168226997747898, guid: cb4d71b7b0cf328489c0fcb2d2941365,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7796168226997747902, guid: cb4d71b7b0cf328489c0fcb2d2941365,
         type: 3}
@@ -55162,6 +55172,11 @@ PrefabInstance:
         type: 3}
       propertyPath: playerRange
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5982610109851259232, guid: 6172527ff49ada849acc532c8068aec0,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5982610109851259235, guid: 6172527ff49ada849acc532c8068aec0,
         type: 3}

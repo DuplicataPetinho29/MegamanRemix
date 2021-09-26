@@ -183,6 +183,7 @@ public class player2 : MonoBehaviour
             foreach (Collider2D enemy in hitEnemies) // Dar dano no inimigo
             {
                enemy.GetComponent<caoInimigo>().TakeDamage(attackDamage);
+               
             }
 
         }
