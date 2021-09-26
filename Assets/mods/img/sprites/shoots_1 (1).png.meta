@@ -1,16 +1,28 @@
 fileFormatVersion: 2
-guid: 363ca16f96f13b3488e011d270defe42
+guid: 46625f0d96922c64da7ac828872d98a7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -110479688004522368
-    second: Lobo Dano_0
+      213: -3543067377125572630
+    second: shoots_1 (1)_0
   - first:
-      213: 4145062707152945114
-    second: Lobo Dano_1
+      213: -6369279399026561409
+    second: shoots_1 (1)_1
   - first:
-      213: 6299433097286684666
-    second: Lobo Dano_2
+      213: -3332577467028566294
+    second: shoots_1 (1)_2
+  - first:
+      213: -4014580111011902462
+    second: shoots_1 (1)_3
+  - first:
+      213: 2712593980686495333
+    second: shoots_1 (1)_4
+  - first:
+      213: 2013913307432737064
+    second: shoots_1 (1)_5
+  - first:
+      213: -5981416350792972148
+    second: shoots_1 (1)_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -54,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 60
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,13 +108,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lobo Dano_0
+      name: shoots_1 (1)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2
-        width: 80
-        height: 84
+        x: 414
+        y: 2366
+        width: 68
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -110,20 +122,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08e28912f4f777ef0800000000000000
-      internalID: -110479688004522368
+      spriteID: aefb7231efe74dec0800000000000000
+      internalID: -3543067377125572630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lobo Dano_1
+      name: shoots_1 (1)_1
       rect:
         serializedVersion: 2
-        x: 95
-        y: 2
-        width: 74
-        height: 82
+        x: 1300
+        y: 2381
+        width: 11
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adff1971298368930800000000000000
-      internalID: 4145062707152945114
+      spriteID: f7eeec9e126cb97a0800000000000000
+      internalID: -6369279399026561409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lobo Dano_2
+      name: shoots_1 (1)_2
       rect:
         serializedVersion: 2
-        x: 172
-        y: 0
-        width: 88
-        height: 72
+        x: 1311
+        y: 2345
+        width: 76
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +164,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aff8c12b6051c6750800000000000000
-      internalID: 6299433097286684666
+      spriteID: aee8a43537e40c1d0800000000000000
+      internalID: -3332577467028566294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoots_1 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1391
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c89c0c8a85948c0800000000000000
+      internalID: -4014580111011902462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoots_1 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1490
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e6eae7ad115a520800000000000000
+      internalID: 2712593980686495333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoots_1 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1382
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d5f1ab7bd2fb10800000000000000
+      internalID: 2013913307432737064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shoots_1 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 448
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888545158dbdfca0800000000000000
+      internalID: -5981416350792972148
       vertices: []
       indices: 
       edges: []

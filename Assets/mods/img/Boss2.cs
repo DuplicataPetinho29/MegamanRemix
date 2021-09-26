@@ -40,6 +40,9 @@ public class Boss2 : MonoBehaviour
     [SerializeField]
     int saud = 10;
 
+    public int maxHealth = 100; // pro dano melee, desconsiderar
+    int currrentHealth;
+
 
     Rigidbody2D rigidbody2d;
 
@@ -54,6 +57,8 @@ public class Boss2 : MonoBehaviour
         rigidbody2d = GetComponent<Rigidbody2D>();
 
         animator = GetComponent<Animator>();
+
+        currrentHealth = maxHealth;
     }
 
     // Update is called once per frame
@@ -175,5 +180,16 @@ public class Boss2 : MonoBehaviour
 
         }
     }
+    public void TakeDamage(int damage)
+    {
+        currrentHealth -= damage;
+        animator.Play("bossDano");
 
+        if (currrentHealth <= 1)
+            animator.Play("Dead");
+
+        if (currrentHealth <= 0)
+            Destroy(gameObject);
     }
+
+}

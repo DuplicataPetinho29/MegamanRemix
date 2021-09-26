@@ -40,6 +40,8 @@ public class caoInimigo : MonoBehaviour
     Animator animator;
 
     private int health = 10;
+    public int maxHealth = 100;
+    int currrentHealth;
 
     // Start is called before the first frame update
     void Start()
@@ -49,6 +51,8 @@ public class caoInimigo : MonoBehaviour
         rigidbody2d = GetComponent<Rigidbody2D>();
 
         animator = GetComponent<Animator>();
+
+        currrentHealth = maxHealth;
     }
 
     // Update is called once per frame
@@ -153,4 +157,13 @@ public class caoInimigo : MonoBehaviour
                 Destroy(gameObject);
         }
     }
+    public void TakeDamage(int damage)
+    {
+        currrentHealth -= damage;
+        animator.Play("LoboEnemyDano");
+
+        if (currrentHealth <= 0)
+            Destroy(gameObject);
+    }
+
 }

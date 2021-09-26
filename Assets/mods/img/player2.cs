@@ -41,7 +41,7 @@ public class player2 : MonoBehaviour
 
     bool isSpriteLeft;
 
-    public int attackDamage = 2;
+    public int attackDamage = 20;
 
 
 
@@ -178,11 +178,11 @@ public class player2 : MonoBehaviour
         if (Input.GetKey(KeyCode.Mouse1))
         {
             animator.Play("chutando");
-            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers); // Detectar a colisão na layer
 
-            foreach (Collider2D enemy in hitEnemies)
+            foreach (Collider2D enemy in hitEnemies) // Dar dano no inimigo
             {
-
+               enemy.GetComponent<caoInimigo>().TakeDamage(attackDamage);
             }
 
         }

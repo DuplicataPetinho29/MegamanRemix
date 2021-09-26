@@ -31,11 +31,14 @@ public class EnemyShot : MonoBehaviour
     Animator animator;
 
     private int health = 10;
+    public int maxHealth = 100; // pro dano melee
+    int currrentHealth;
 
     void Start()
     {
         thePlayer = FindObjectOfType<ControlaPer>();
         animator = GetComponent<Animator>();
+        currrentHealth = maxHealth;
 
     }
 
@@ -110,7 +113,7 @@ public class EnemyShot : MonoBehaviour
             transform.localScale = new Vector2(-2, 2);
         }
     }
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision) // Para verificar a colisão do tiro
     {
         if (collision.CompareTag("Bullet"))
         {
@@ -124,6 +127,17 @@ public class EnemyShot : MonoBehaviour
             if (health <= 0)
                 Destroy(gameObject);
         }
+    }
+    public void TakeDamage(int damage) // Para verificar a colisão do Atk Melee
+    {
+        currrentHealth -= damage;
+        animator.Play("EnemyShotDanoMelee");
+
+        if (currrentHealth <= 1)
+            animator.Play("Dead");
+
+        if (currrentHealth <= 0)
+            Destroy(gameObject);
     }
 
 }
