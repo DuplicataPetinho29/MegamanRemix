@@ -5,7 +5,7 @@ using UnityEngine;
 public class caoInimigo : MonoBehaviour
 {
 
-    private ControlaPer thePlayer;
+    private player2 thePlayer;
 
     [SerializeField]
     Transform player;
@@ -46,7 +46,7 @@ public class caoInimigo : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        thePlayer = FindObjectOfType<ControlaPer>();
+        thePlayer = FindObjectOfType<player2>();
 
         rigidbody2d = GetComponent<Rigidbody2D>();
 
