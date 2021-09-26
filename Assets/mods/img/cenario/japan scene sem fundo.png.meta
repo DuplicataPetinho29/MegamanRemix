@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 41a12ce16d83ac44e8a8aa87ad24f75f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5064624197335821715
+    second: japan scene sem fundo_0
+  - first:
+      213: 4375141788227066392
+    second: japan scene sem fundo_1
+  - first:
+      213: -3374137022102730255
+    second: japan scene sem fundo_2
+  - first:
+      213: 6473994563251138968
+    second: japan scene sem fundo_3
+  - first:
+      213: -7511836236958363645
+    second: japan scene sem fundo_4
+  - first:
+      213: -743416540945909368
+    second: japan scene sem fundo_5
+  - first:
+      213: -6311792163657061708
+    second: japan scene sem fundo_6
+  - first:
+      213: 8543062584000099970
+    second: japan scene sem fundo_7
+  - first:
+      213: -4602089639635722384
+    second: japan scene sem fundo_8
+  - first:
+      213: 6774068243324277542
+    second: japan scene sem fundo_9
+  - first:
+      213: 1105876996656181206
+    second: japan scene sem fundo_10
+  - first:
+      213: 6640601525138686346
+    second: japan scene sem fundo_11
+  - first:
+      213: -2459642190148148380
+    second: japan scene sem fundo_12
+  - first:
+      213: -293280622045914774
+    second: japan scene sem fundo_13
+  - first:
+      213: -2460769136843130984
+    second: japan scene sem fundo_14
+  - first:
+      213: -6676826827514761067
+    second: japan scene sem fundo_15
+  - first:
+      213: -7522416138758010960
+    second: japan scene sem fundo_16
+  - first:
+      213: 8366389094249014873
+    second: japan scene sem fundo_17
+  - first:
+      213: 1880043098345333885
+    second: japan scene sem fundo_18
+  - first:
+      213: -8756958557027914037
+    second: japan scene sem fundo_19
+  - first:
+      213: 8495313171554377840
+    second: japan scene sem fundo_20
+  - first:
+      213: -1508852512064693858
+    second: japan scene sem fundo_21
+  - first:
+      213: 6295320092962638619
+    second: japan scene sem fundo_22
+  - first:
+      213: -4738303000636383663
+    second: japan scene sem fundo_23
+  - first:
+      213: -2181096900205480476
+    second: japan scene sem fundo_24
+  - first:
+      213: -1033063481187654609
+    second: japan scene sem fundo_25
+  - first:
+      213: -1940954475364256961
+    second: japan scene sem fundo_26
+  - first:
+      213: 7883690456895734152
+    second: japan scene sem fundo_27
+  - first:
+      213: 1709890076405852513
+    second: japan scene sem fundo_28
+  - first:
+      213: 7248779106524709723
+    second: japan scene sem fundo_29
+  - first:
+      213: -4755422397738886579
+    second: japan scene sem fundo_30
+  - first:
+      213: 5065577276826568594
+    second: japan scene sem fundo_31
+  - first:
+      213: 2522716211864258079
+    second: japan scene sem fundo_32
+  - first:
+      213: 3966958475697077195
+    second: japan scene sem fundo_33
+  - first:
+      213: -1851496809838541017
+    second: japan scene sem fundo_34
+  - first:
+      213: 1232973739958981502
+    second: japan scene sem fundo_35
+  - first:
+      213: 2506690449875805566
+    second: japan scene sem fundo_36
+  - first:
+      213: -5976342299868920830
+    second: japan scene sem fundo_37
+  - first:
+      213: -582643901623467776
+    second: japan scene sem fundo_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: japan scene sem fundo_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 388
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dac0bbfd8294640800000000000000
+      internalID: 5064624197335821715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 388
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81add31a640a7bc30800000000000000
+      internalID: 4375141788227066392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 386
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9821e5148ac21d0800000000000000
+      internalID: -3374137022102730255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 395
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f46c21cf38d950800000000000000
+      internalID: 6473994563251138968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 394
+        width: 307
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300903dedb890c790800000000000000
+      internalID: -7511836236958363645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_5
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 457
+        width: 100
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889f4c4489adea5f0800000000000000
+      internalID: -743416540945909368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_6
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 459
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba602de7720868a0800000000000000
+      internalID: -6311792163657061708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_7
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 463
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286b145382e0f8670800000000000000
+      internalID: 8543062584000099970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_8
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 464
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fd10d0bd71220c0800000000000000
+      internalID: -4602089639635722384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 390
+        width: 101
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623199f3d23520e50800000000000000
+      internalID: 6774068243324277542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_10
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 385
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfa7fee44dd85f00800000000000000
+      internalID: 1105876996656181206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_11
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 380
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a810fc857e7282c50800000000000000
+      internalID: 6640601525138686346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_12
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 405
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e7a5b5789dddd0800000000000000
+      internalID: -2459642190148148380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_13
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 377
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69927ff3de0eebf0800000000000000
+      internalID: -293280622045914774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 282
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897783cf18799ddd0800000000000000
+      internalID: -2460769136843130984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 256
+        width: 456
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5903f2f20652753a0800000000000000
+      internalID: -6676826827514761067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_16
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 289
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7c9a490620b9790800000000000000
+      internalID: -7522416138758010960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_17
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 289
+        width: 110
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562a6fdd826b1470800000000000000
+      internalID: 8366389094249014873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_18
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 379
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d746c4fac31471a10800000000000000
+      internalID: 1880043098345333885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_19
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 351
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea887b698097680800000000000000
+      internalID: -8756958557027914037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_20
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 339
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0702236c15a65e570800000000000000
+      internalID: 8495313171554377840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_21
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 240
+        width: 116
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e999def62aa7f0be0800000000000000
+      internalID: -1508852512064693858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_22
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 335
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bca6045487d5750800000000000000
+      internalID: 6295320092962638619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_23
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 333
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e96e8868a2e3eb0800000000000000
+      internalID: -4738303000636383663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_24
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 289
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5fb8adcef2bb1e0800000000000000
+      internalID: -2181096900205480476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_25
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 295
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24a16dbc32d9a1f0800000000000000
+      internalID: -1033063481187654609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_26
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 299
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3375b230385015e0800000000000000
+      internalID: -1940954475364256961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_27
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 295
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881486273be786d60800000000000000
+      internalID: 7883690456895734152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_28
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 252
+        width: 84
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169e22117ffbab710800000000000000
+      internalID: 1709890076405852513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_29
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 252
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53cda31136d89460800000000000000
+      internalID: 7248779106524709723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_30
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 247
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a56d94688510eb0800000000000000
+      internalID: -4755422397738886579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 33
+        width: 401
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c987d1bb8c4640800000000000000
+      internalID: 5065577276826568594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 34
+        width: 298
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c94d570d720320800000000000000
+      internalID: 2522716211864258079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_33
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 287
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb36ae37b77d0730800000000000000
+      internalID: 3966958475697077195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_34
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 168
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7270eca06792e46e0800000000000000
+      internalID: -1851496809838541017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_35
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 52
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d3ab75176c1110800000000000000
+      internalID: 1232973739958981502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_36
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 52
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7526b2eead89c220800000000000000
+      internalID: 2506690449875805566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_37
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2040c20a754cf0da0800000000000000
+      internalID: -5976342299868920830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan scene sem fundo_38
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 3
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0018f2d55780ae7f0800000000000000
+      internalID: -582643901623467776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

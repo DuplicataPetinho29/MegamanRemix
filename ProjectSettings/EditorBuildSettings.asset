@@ -33,6 +33,6 @@ EditorBuildSettings:
     path: Assets/mods/newmod 2.unity
     guid: 9dc3c23a4be16e2499b639db4d3a235e
   - enabled: 1
-    path: Assets/mods/newmod 3.unity
+    path: Assets/mods/newmod 333.unity
     guid: 20dc254c7bdb4304dba76c9259f5b182
   m_configObjects: {}
